@@ -8,3 +8,4 @@
 - linuxboot
 - systemd-boot
 - lilo
+- twrp
