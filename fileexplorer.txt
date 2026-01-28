@@ -1,0 +1,7 @@
+- windows file explorer
+- total commander
+- one commander
+- files
+- file pilot
+- finder
+- 7zip
