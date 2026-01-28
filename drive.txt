@@ -1,0 +1,4 @@
+- gdrive
+- onedrive
+- protondrive
+- dropbox
