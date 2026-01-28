@@ -1,0 +1,10 @@
+- windows bootmgr
+- grub
+- burg
+- refind
+- uboot
+- syslinux
+- coreboot
+- linuxboot
+- systemd-boot
+- lilo
