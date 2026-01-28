@@ -1,0 +1,5 @@
+- vscode
+- sublime text
+- notpad++
+- emeditor
+- zed
