@@ -1,2 +1,1 @@
-# whatdoido
-I have no idea what I want to do
+# Nothing comes to mind
