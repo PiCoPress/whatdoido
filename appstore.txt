@@ -1,0 +1,9 @@
+- google play store
+- ms store
+- apple appstore
+- snap store
+- gnome software
+- fdroid
+- aura store
+- pcappstore
+- altstore
