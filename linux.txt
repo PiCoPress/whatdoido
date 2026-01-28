@@ -1,0 +1,33 @@
+- ubuntu
+- mint
+- steamos
+- fedora
+- rhel
+- centos
+- rocky linux
+- android
+- gentoo
+- void
+- alpine
+- kali
+- chromeos
+- zorinos
+- debian
+- puppylinux
+- proxmox
+- openwrt
+- oracle linux
+- amazon linux
+- azure linux
+- whonix
+- tails
+- webos
+- mageia
+- arch
+- manjaro
+- nixos
+- endless
+- mx linux
+- deepin
+- opensuse
+- raspberrypi
