@@ -1,0 +1,14 @@
+- zip
+- rar
+- gzip
+- xzip
+- tar
+- cpio
+- zstdddd
+- bzip
+- lzma
+- lzop
+- lz4
+- cab
+- jar
+- ar
