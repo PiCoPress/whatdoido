@@ -1,0 +1,15 @@
+- apt
+- dpkg
+- rpm
+- yum
+- dnf
+- apk
+- nuget
+- pacman
+- hombrew
+- snap
+- flatpak
+- chocolatey
+- pkg
+- npm
+- pip
