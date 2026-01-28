@@ -1,0 +1,8 @@
+- google password manager
+- apple password manager
+- bitwarden
+- 1password
+- keepass
+- lastpass
+- protonpass
+- nordpass
