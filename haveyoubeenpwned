@@ -1,0 +1,8 @@
+- vmware
+- hyper-v
+- virtualbox
+- kvm
+- bhyve
+- xen
+- parallels
+- dbvm
