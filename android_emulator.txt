@@ -1,0 +1,10 @@
+- nox
+- bluestack
+- memu
+- ldplayer
+- google play games pc
+- android studio emulator
+- cuttlefish
+- waydroid
+- anbox-cloud
+- genymotion
