@@ -12,3 +12,5 @@
 - cab
 - jar
 - ar
+- iso
+- img
