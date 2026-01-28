@@ -1,0 +1,16 @@
+- chrome
+- edge
+- firefox
+- tor
+- brave
+- comet
+- avast browser
+- avira browser
+- norton browser
+- avg browser
+- mullvad browser
+- waterfox
+- safari
+- floorp
+- samsung browser
+- internet explorer
