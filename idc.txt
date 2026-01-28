@@ -1,0 +1,6 @@
+- aws
+- azure
+- gcp
+- digital ocean
+- oracle cloud
+- cloudflare
