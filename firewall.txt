@@ -1,0 +1,6 @@
+- windows firewall
+- glasswire
+- simplewall
+- netlimiter
+- fortfirewall
+- portmaster
