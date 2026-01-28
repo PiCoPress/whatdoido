@@ -1,0 +1,7 @@
+- google
+- duckduckgo
+- bing
+- yahoo
+- startpage
+- baidu
+- aol
